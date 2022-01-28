@@ -1,0 +1,2 @@
+# Bright-Scp-contributions
+TestRepositorypleaseignore
